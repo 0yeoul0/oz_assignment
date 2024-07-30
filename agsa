@@ -1,0 +1,44 @@
+[1mdiff --git a/.DS_Store b/.DS_Store[m
+[1mdeleted file mode 100644[m
+[1mindex 6e8ec11..0000000[m
+Binary files a/.DS_Store and /dev/null differ
+[1mdiff --git a/html.html b/html.html[m
+[1mdeleted file mode 100644[m
+[1mindex d01f779..0000000[m
+[1m--- a/html.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,11 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Document</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    [m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[1mdiff --git "a/report/\355\224\204\353\241\234\355\225\204\352\276\270\353\257\270\352\270\260/images/photomode_29032024_024608.png" "b/report/\355\224\204\353\241\234\355\225\204\352\276\270\353\257\270\352\270\260/images/photomode_29032024_024608.png"[m
+[1mdeleted file mode 100644[m
+[1mindex 23bba68..0000000[m
+Binary files "a/report/\355\224\204\353\241\234\355\225\204\352\276\270\353\257\270\352\270\260/images/photomode_29032024_024608.png" and /dev/null differ
+[1mdiff --git "a/\355\224\204\353\241\234\355\225\204.html" "b/\355\224\204\353\241\234\355\225\204.html"[m
+[1mdeleted file mode 100644[m
+[1mindex 62859f6..0000000[m
+[1m--- "a/\355\224\204\353\241\234\355\225\204.html"[m
+[1m+++ /dev/null[m
+[36m@@ -1,11 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Document</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    <h1>........124</h1>[m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
